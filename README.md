@@ -27,6 +27,10 @@ Project developed with Vue 3 in Vite.
 ```sh
 npm install
 ```
+```sh
+npm install axios
+```
+
 ### Run db
  npx json-server db.json
 
@@ -36,14 +40,4 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
