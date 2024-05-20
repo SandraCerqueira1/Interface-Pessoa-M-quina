@@ -18,6 +18,8 @@
 | João Ricardo Ribeiro Rodrigues | A100598 |Mad-Karma        |
 | Sandra Fabiana Pires Cerqueira | A100681 |SandraCerqueira1 |
 
+*Grade*: 18/20
+
 </div>
 
 Project developed with Vue 3 in Vite.
