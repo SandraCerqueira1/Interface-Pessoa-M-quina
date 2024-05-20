@@ -22,6 +22,7 @@
 
 </div>
 
+
 Project developed with Vue 3 in Vite.
 Consiste num sistema desenvolvido para os postos de uma oficina automóvel cujo objetivo é automatizar o processo de realização de serviços pelos mecânicos, a interface foi feita para ser simples e intuitiva.
 
