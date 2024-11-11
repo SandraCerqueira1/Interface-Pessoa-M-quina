@@ -26,6 +26,9 @@
 Project developed with Vue 3 in Vite.
 Consiste num sistema desenvolvido para os postos de uma oficina automóvel cujo objetivo é automatizar o processo de realização de serviços pelos mecânicos, a interface foi feita para ser simples e intuitiva.
 
+## Figma Link
+https://www.figma.com/proto/34QBmDYMVCBmm5P09qhn7j/Trabalho-Pr%C3%A1tico-IPM?node-id=171-999&t=hSGDsZqGOsB7Uj6J-1
+
 ## Project Setup
 
 ```sh
